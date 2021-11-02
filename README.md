@@ -6,7 +6,7 @@ Tutorial: Introducción a ReactJS.
 
 Esta es la documentación del tutorial de React usando contenedores de Docker como ambiente y VSCode como IDE (aunque esto ultimo suele salir sobrando xD).
 
-**IMPORTANTE: Este repo es con fines autodidactas, y se abarcarán los retos propestos por el tutorial despues de terminarlo**
+**IMPORTANTE: Este repo es con fines autodidactas, y se abarcarán los retos propuestos por el tutorial despues de terminarlo**
 
 Definiciones:
 
@@ -55,7 +55,7 @@ El codigo presente en este repositorio pretende mostrar una de las posibles solu
 
 RETOS
 
-1.- Muestra la ubicación para cada movimiento en el formato (columna, fila) en la lista del historial de movimientos.
+1.- Muestra la ubicación para cada movimiento en el formato (columna, fila) en la lista del historial de movimientos. --Hecho
 
 2.- Convierte en negrita el elemento actualmente seleccionado en la lista de movimientos. --Hecho
 
