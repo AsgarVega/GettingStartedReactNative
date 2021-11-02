@@ -65,4 +65,4 @@ RETOS
 
 5.- Cuando alguien gana, resalta los 3 cuadrados que hicieron que gane.
 
-6.- Cuando nadie gana, muestra un mensaje acerca de que el resultado es un empate.
+6.- Cuando nadie gana, muestra un mensaje acerca de que el resultado es un empate. --Hecho
